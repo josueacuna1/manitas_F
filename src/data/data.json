@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "title": "Introducción al lenguaje de señas",
+        "description": "El lenguaje de señas es un sistema de comunicación visual que se utiliza como medio de comunicación entre personas sordas o con discapacidad auditiva. En el lenguaje de señas, las palabras y las frases se expresan mediante movimientos de las manos, los brazos, el cuerpo y la cara, en lugar de utilizar la voz."
+    }, {
+        "id": "2",
+        "title": "Introducción al alfabeto manual",
+        "description": "El alfabeto manual es un sistema de comunicación que utiliza las manos y los dedos para representar cada letra del alfabeto. Es utilizado por personas sordas o con dificultades auditivas como una forma de comunicación alternativa y para deletrear palabras y nombres propios. Cada letra del alfabeto se representa con una posición específica de las manos y los dedos, y puede ser realizada tanto con la mano derecha como con la mano izquierda."
+    },
+    {
+        "id": "3",
+        "title": "Letras de la A a la C",
+        "description": "Enseñanza de las letras A, B y C del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    }, 
+    {
+        "id": "4",
+        "title": "Letras de la D a la F",
+        "description": "Enseñanza de las letras  D, E, F del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    }, 
+    {
+        "id": "5",
+        "title": "Letras de la G a la I",
+        "description": "Enseñanza de las letras  G, H, I del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    }, 
+    {
+        "id": "6",
+        "title": "Letras de la J a la L",
+        "description": "Enseñanza de las letras  J, K, L del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    }, 
+    {
+        "id": "7",
+        "title": "Letras de la M a la Ñ",
+        "description": "Enseñanza de las letras  M, N, Ñ del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    },
+    {
+        "id": "8",
+        "title": "Letras de la O a la Q",
+        "description": "Enseñanza de las letras  O, P, Q del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    },
+    {
+        "id": "9",
+        "title": "Letras de la R a la S",
+        "description": "Enseñanza de las letras  R, S, T del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    },
+    {
+        "id": "10",
+        "title": "Letras de la U a la W",
+        "description": "Enseñanza de las letras  U, V, W del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    },
+    {
+        "id": "11",
+        "title": "Letras de la X a la Z",
+        "description": "Enseñanza de las letras  X, Y, Z del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra."
+    }
+]
