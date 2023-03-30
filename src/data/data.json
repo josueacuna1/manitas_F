@@ -1,0 +1,274 @@
+[
+    {
+        "id": "1",
+        "title": "Introducción al lenguaje de señas",
+        "description": "El lenguaje de señas es un sistema de comunicación visual que se utiliza como medio de comunicación entre personas sordas o con discapacidad auditiva. En el lenguaje de señas, las palabras y las frases se expresan mediante movimientos de las manos, los brazos, el cuerpo y la cara, en lugar de utilizar la voz.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "El lenguaje de señas es un sistema de comunicación visual utilizado por personas sordas o con discapacidad auditiva para comunicarse entre sí y con personas oyentes. A diferencia del lenguaje hablado, el lenguaje de señas utiliza gestos, movimientos de manos, expresiones faciales y corporales para transmitir significados. "
+            },
+            {
+                "id": 2,
+                "texto": "Cada país y región tiene su propio lenguaje de señas, y aunque existen similitudes entre ellos, no son universales. Por ejemplo, el lenguaje de señas utilizado en Estados Unidos es diferente al utilizado en México o España. El lenguaje de señas es una forma de comunicación completa y rica en expresividad, y puede transmitir cualquier tipo de información, desde conversaciones cotidianas hasta discursos complejos y abstractos."
+            },
+            {
+                "id": 3,
+                "texto": "También puede ser utilizado en situaciones en las que el lenguaje hablado no es práctico o posible, como en ambientes ruidosos o en la oscuridad. Es importante destacar que el lenguaje de señas no es una forma de comunicación universal, y que es necesario un aprendizaje y una práctica para poder utilizarlo de manera efectiva."
+            },
+            {
+                "id": 4,
+                "texto": " La enseñanza y la difusión del lenguaje de señas son importantes para promover la inclusión y la igualdad de oportunidades para las personas sordas o con discapacidad auditiva."
+            }
+        ],
+        "motivacion": [
+            {
+                "id": 1,
+                "texto": "La comunicación es fundamental para el desarrollo social del ser humano."
+            },
+            {
+                "id": 2,
+                "texto": "Una herramienta indispensable para conocer el lenguaje de señas."
+            },
+            {
+                "id": 3,
+                "texto": "Cuando, por cualquier motivo, el habla se ve impedida, la posibilidad de alcanzar una verdadera realización social se reduce de manera importante."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Introducción al alfabeto manual",
+        "description": "El alfabeto manual es un sistema de comunicación que utiliza las manos y los dedos para representar cada letra del alfabeto. Es utilizado por personas sordas o con dificultades auditivas como una forma de comunicación alternativa y para deletrear palabras y nombres propios. Cada letra del alfabeto se representa con una posición específica de las manos y los dedos, y puede ser realizada tanto con la mano derecha como con la mano izquierda.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "El alfabeto manual de señas mexicanas se compone de 27 signos diferentes, uno para cada letra del alfabeto español. Cada signo se forma con una o ambas manos, utilizando diferentes posiciones y movimientos de los dedos y la palma de la mano."
+            },
+            {
+                "id": 2,
+                "texto": "A diferencia del lenguaje de señas, que utiliza gestos y movimientos para representar ideas y conceptos, el alfabeto manual de señas mexicanas se utiliza para borrar palabras y nombres propios. Es una herramienta útil para comunicarse en situaciones en las que no se dispone de un intérprete o cuando la comunicación escrita no es posible o práctica."
+            },
+            {
+                "id": 3,
+                "texto": "Es importante destacar que el alfabeto manual de señas mexicanas es solo un componente del lenguaje de señas mexicanas, que incluye una gramática y estructura propias. Aprender el alfabeto manual de señas mexicanas puede ser un primer paso para comunicarse con personas sordas o con discapacidad auditiva, pero para una comunicación efectiva es necesario conocer y practicar el lenguaje de señas en su totalidad."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Letras de la A a la C",
+        "description": "Enseñanza de las letras A, B y C del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "A - Con la mano cerrada, se muestran las uñas y se estira el dedo pulgar hacia un lado. La palma mira al frente."
+            },
+            {
+                "id": 2,
+                "texto": "B - Los dedos índice, medio, anular y meñique se estiran bien unidos y el pulgar se dobla hacia la palma, la cual mira al frente."
+            },
+            {
+                "id": 3,
+                "texto": "C - Los dedos índice, medio, anular y meñique se mantienen bien unidos y en posición cóncava; el pulgar también se pone en esa posición. La palma mira a un lado."
+            }
+        ],
+        "imagen": [
+            "@/A.jpg",
+            "@/B.jpg",
+            "@/C.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Letras de la D a la F",
+        "description": "Enseñanza de las letras  D, E, F del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "D - Los dedos medio, anular, meñique y pulgar se unen por las puntas y el dedo índice se estira. La palma mira al frente."
+            },
+            {
+                "id": 2,
+                "texto": "E - Se doblan los dedos completamente, y se muestran las uñas. La palma mira al frente."
+            },
+            {
+                "id": 3,
+                "texto": "F - Con la mano abierta y los dedos bien unidos, se dobla el índice hasta que su parte lateral toque la yema del pulgar. La palma mira a un lado."
+            }
+        ],
+        "imagen": [
+            "@/D.jpg",
+            "@/E.jpg",
+            "@/F.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Letras de la G a la I",
+        "description": "Enseñanza de las letras  G, H, I del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "G - Se cierra la mano y los dedos índice y pulgar se estiran. La palma mira hacia usted."
+            },
+            {
+                "id": 2,
+                "texto": "H - Con la mano cerrada y los dedos índice y medio bien estirados y unidos, se extiende el dedo pulgar señalando hacia arriba. La palma mira hacia usted."
+            },
+            {
+                "id": 3,
+                "texto": "I - Con la mano cerrada, el dedo meñique se estira señalando hacia arriba. La palma se pone de lado."
+            }
+        ],
+        "imagen": [
+            "@/G.jpg",
+            "@/H.jpg",
+            "@/I.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Letras de la J a la L",
+        "description": "Enseñanza de las letras  J, K, L del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "J - Con la mano cerrada, el dedo meñique bien estirado señalando hacia arriba y la palma a un lado dibuja una j en el aire."
+            },
+            {
+                "id": 2,
+                "texto": "K - Se cierra la mano con los dedos índice, medio y pulgar estirados. La yema del pulgar se pone entre el índice y el medio. Se mueve la muñeca hacia arriba."
+            },
+            {
+                "id": 3,
+                "texto": "L - Con la mano cerrada y los dedos índice y pulgar estirados, se forma una l. La palma mira al frente."
+            }
+        ],
+        "imagen": [
+            "@/J.jpg",
+            "@/K.jpg",
+            "@/L.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Letras de la M a la Ñ",
+        "description": "Enseñanza de las letras  M, N, Ñ del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "M - Con la mano cerrada, se ponen los dedos índice, medio y anular sobre el pulgar."
+            },
+            {
+                "id": 2,
+                "texto": "N - Con la mano cerrada, se ponen los dedos índice y medio sobre el pulgar."
+            },
+            {
+                "id": 3,
+                "texto": "Ñ - Con la mano cerrada, se ponen los dedos índice y medio sobre el pulgar. Se mueve la muñeca a los lados."
+            }
+        ],
+        "imagen": [
+            "@/M.jpg",
+            "@/N.jpg",
+            "@/Ñ.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Letras de la O a la Q",
+        "description": "Enseñanza de las letras  O, P, Q del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "O - Con la mano se forma una letra o. Todos los dedos se tocan por las puntas."
+            },
+            {
+                "id": 2,
+                "texto": "P - Con la mano cerrada y los dedos índice, medio y pulgar estirados, se pone la yema del pulgar entre el índice y el medio."
+            },
+            {
+                "id": 3,
+                "texto": "Q - Con la mano cerrada, se ponen los dedos índice y pulgar en posición de garra. La palma mira hacia abajo, y se mueve la muñeca hacia los lados."
+            }
+        ],
+        "imagen": [
+            "@/O.jpg",
+            "@/P.jpg",
+            "@/Q.jpg"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Letras de la R a la T",
+        "description": "Enseñanza de las letras  R, S, T del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "R - Con la mano cerrada, se estiran y entrelazan los dedos índice y medio. La palma mira al frente."
+            },
+            {
+                "id": 2,
+                "texto": "S - Con la mano cerrada, se pone el pulgar sobre los otros dedos. La palma mira al frente."
+            },
+            {
+                "id": 3,
+                "texto": "T - Con la mano cerrada, el pulgar se pone entre el índice y el medio. La palma mira al frente."
+            }
+        ],
+        "imagen": [
+            "@/R.jpg",
+            "@/S.jpg",
+            "@/T.jpg"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Letras de la U a la W",
+        "description": "Enseñanza de las letras  U, V, W del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "U - Con la mano cerrada, se estiran los dedos índice y medio unidos. La palma mira al frente."
+            },
+            {
+                "id": 2,
+                "texto": "V - Con la mano cerrada, se estiran los dedos índice y medio separados. La palma mira al frente"
+            },
+            {
+                "id": 3,
+                "texto": "W - Con la mano cerrada, se estiran los dedos índice, medio y anular separados. La palma mira al frente."
+            }
+        ],
+        "imagen": [
+            "@/U.jpg",
+            "@/V.jpg",
+            "@/W.jpg"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Letras de la X a la Z",
+        "description": "Enseñanza de las letras  X, Y, Z del alfabeto manual, práctica de la posición de las manos y los dedos para cada letra, práctica de la transición suave de una letra a otra.",
+        "contenido": [
+            {
+                "id": 1,
+                "texto": "X - Con la mano cerrada, el índice y el pulgar en posición de garra y la palma dirigida a un lado, se realiza un movimiento al frente y de regreso"
+            },
+            {
+                "id": 2,
+                "texto": "Y - Con la mano cerrada, se estira el meñique y el pulgar. La palma mira hacia usted."
+            },
+            {
+                "id": 3,
+                "texto": "Z - Con la mano cerrada, el dedo índice estirado y la palma al frente, se dibuja una letra z en el aire"
+            }
+        ],
+        "imagen": [
+            "@/X.jpg",
+            "@/Y.jpg",
+            "@/Z.jpg"
+        ]
+    }
+]
